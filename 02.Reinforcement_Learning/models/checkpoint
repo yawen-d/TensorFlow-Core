@@ -1,2 +1,0 @@
-model_checkpoint_path: "atari.ckpt-0"
-all_model_checkpoint_paths: "atari.ckpt-0"
